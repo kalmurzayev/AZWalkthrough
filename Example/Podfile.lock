@@ -1,0 +1,25 @@
+PODS:
+  - AZWalkthrough (0.1.0):
+    - SnapKit
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - AZWalkthrough (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  AZWalkthrough:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AZWalkthrough: c28f7964dbdf8db9a9d10798e8a3fa68a182cf83
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: cc48b0d50fce84ded77dc2230483fd5477849cd9
+
+COCOAPODS: 1.2.1
